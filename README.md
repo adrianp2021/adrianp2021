@@ -16,6 +16,6 @@
  -->
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=adrianp2021&&show_icons=true&title_color=ffffff&icon_color=daf7dc&text_color=fcf9dc&bg_color=radial-gradient(10deg,E2C287,3443fd,F8D9B8)"> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianp2021&account_private=true&title_color=ffffff&icon_color=daf7dc&text_color=fcf9dc&bg_color=radial-gradient(10deg,E2C287,3443fd,F8D9B8)&show_icons=true&locale=en&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=adrianp2021&&show_icons=true&title_color=ffffff&icon_color=daf7dc&text_color=fcf9dc&bg_color=10deg,CABCBC,746E6B"> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianp2021&account_private=true&title_color=ffffff&icon_color=daf7dc&text_color=fcf9dc&bg_color=10deg,CABCBC,746E6B&show_icons=true&locale=en&layout=compact"/>
 
 [website]: www.adrianpantea.net
