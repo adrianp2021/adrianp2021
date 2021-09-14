@@ -16,6 +16,8 @@
  -->
 <br />
 
-<img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=adrianp2021&&show_icons=true&title_color=2f80ed&icon_color=586069&text_color=333&bg_color=10deg,CABCBC,746E6B"> 
+<!-- <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=adrianp2021&&show_icons=true&title_color=2f80ed&icon_color=586069&text_color=333&bg_color=10deg,CABCBC,746E6B">  -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianp2021&theme=dark&show_icons=true)
 
-<img  width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianp2021&account_private=true&title_color=2f80ed&icon_color=586069&text_color=333&bg_color=10deg,CABCBC,746E6B&show_icons=true&locale=en&layout=compact"/>
+
+<img  width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianp2021&account_private=true&theme=dark&show_icons=true&show_icons=true&locale=en&layout=compact"/>
