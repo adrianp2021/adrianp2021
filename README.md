@@ -30,9 +30,9 @@
 <a href="https://insomnia.rest/" target="_blank"> <img width="50px" src="https://external-preview.redd.it/Ei1Z8fuxzd6fwIDLPBrbpJtfCj992hmJcKPMZxidaE0.jpg?auto=webp&s=73eb420e05c620c671dd9fa7579af2b5bacb344a"></a> &nbsp
 <a href="https://www.mongodb.com/cloud/atlas/lp/try2?utm_content=controlhterms&utm_source=google&utm_campaign=gs_emea_united_kingdom_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624581&gclid=Cj0KCQjwkIGKBhCxARIsAINMioJ5p7_5bt8_6OcciOVGzeaIWMm63xRBM0SfEeN1sdHk8QVpOXX7Uu8aApR6EALw_wcB" target="_blank"> <img width="50px" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3-1175138.png"></a> &nbsp
 <a href="https://sass-lang.com/" target="_blank"> <img width="50px" src="https://cdn.iconscout.com/icon/free/png-256/sass-2752078-2284895.png"></a> &nbsp
-<a href="https://git-scm.com/" target="_blank"> <img width="50px" src="https://sdtimes.com/wp-content/uploads/2018/05/git_logo.png"></a>
-<a href="https://www.npmjs.com/" target="_blank"> <img width="50px" src="https://cdn.iconscout.com/icon/free/png-256/npm-226037.png"></a>
-<a href="https://yarnpkg.com/" target="_blank"> <img width="50px" src="https://iconape.com/wp-content/files/ub/352181/svg/yarn-seeklogo.com.svg"></a>
+<a href="https://git-scm.com/" target="_blank"> <img width="50px" src="https://sdtimes.com/wp-content/uploads/2018/05/git_logo.png"></a> &nbsp
+<a href="https://www.npmjs.com/" target="_blank"> <img width="50px" src="https://cdn.iconscout.com/icon/free/png-256/npm-226037.png"></a> &nbsp
+<a href="https://yarnpkg.com/" target="_blank"> <img width="50px" src="https://iconape.com/wp-content/files/ub/352181/svg/yarn-seeklogo.com.svg"></a> &nbsp
 <a href="https://www.postgresql.org/" target="_blank"> <img width="50px" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png"></a>
 </p>
  
