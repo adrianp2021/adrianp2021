@@ -1,6 +1,6 @@
 ## < Hello world! /> 👨‍💻
 
-<img align="right" width="25%" src="https://mk0appinventiv4394ey.kinstacdn.com/wp-content/uploads/sites/1/2018/06/10-Tips-to-Hire-Android-App-Developer-2020-Edition.png"/>
+<img align="right" width="30%" src="https://cdn.dribbble.com/users/176039/screenshots/3081690/tna-dribbble-01.gif"/>
 
 - 🔭 I’m currently working on a cloned website.
 - 🌱 I’m currently learning Next.js and Tailwind CSS. In addition, I seek to improve my existing code.
