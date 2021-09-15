@@ -14,7 +14,8 @@
 <p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
  <img width="415px"  align="center" src="https://github-readme-stats.vercel.app/api?username=adrianp2021&hide_border=true&theme=chartreuse-dark&show_icons=true" />
-</a> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+</a> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+ <br>
 <a href="https://github.com/adrianp2021/convoychat">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianp2021&account_private=true&theme=chartreuse-dark&show_icons=true&hide_border=true&show_icons=true&locale=en&layout=compact" width="415px"  />
 </a>
