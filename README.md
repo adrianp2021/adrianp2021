@@ -2,8 +2,8 @@
 
 <img align="right" width="25%" src="https://mk0appinventiv4394ey.kinstacdn.com/wp-content/uploads/sites/1/2018/06/10-Tips-to-Hire-Android-App-Developer-2020-Edition.png"/>
 
-- 🔭  I’m currently working on a cloned website.
-- 🌱 I’m currently learning Next.js and Tailwind CSS.
+- 🔭 I’m currently working on a cloned website.
+- 🌱 I’m currently learning Next.js and Tailwind CSS. In addition, I seek to improve my existing code.
 - 👯 I’m looking to collaborate with other content creators.
 - 🤔 I’m looking to learn from the wider community of developers.
 - 💬 Ask me about travelling. 😁
