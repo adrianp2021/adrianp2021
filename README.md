@@ -1,6 +1,6 @@
 ## < Hello world! /> 👨‍💻
 
-<img align="right" width="33%" src="https://cdn.dribbble.com/users/1308090/screenshots/5207532/flatsy_computerguy_dribbble.gif"/>
+<img align="right" width="30%" src="https://cdn.dribbble.com/users/1308090/screenshots/5207532/flatsy_computerguy_dribbble.gif"/>
 
 - 🔭 I’m currently working on a cloned website.
 - 🌱 I’m currently learning Next.js and Tailwind CSS. In addition, I seek to improve my existing code.
