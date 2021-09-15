@@ -1,6 +1,6 @@
 ## < Hello world! /> 👨‍💻
 
-<img align="right" width="30%" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif"/>
+<img align="right" width="35%" src="https://cdn.dribbble.com/users/1308090/screenshots/5207532/flatsy_computerguy_dribbble.gif"/>
 
 - 🔭 I’m currently working on a cloned website.
 - 🌱 I’m currently learning Next.js and Tailwind CSS. In addition, I seek to improve my existing code.
@@ -11,13 +11,19 @@
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: There is no project without listening to this [soundtrack](https://www.youtube.com/watch?v=iHI-MCHb-VQ&t=17007s). 
 
-
-<img src="https://cdn.dribbble.com/users/80960/screenshots/1388718/shot6.gif" width="150px"> | <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" width="150px">
------------- | -------------
-![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianp2021&hide_border=true&theme=dark&show_icons=true) | <img  width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianp2021&account_private=true&theme=dark&show_icons=true&hide_border=true&show_icons=true&locale=en&layout=compact"/>
+<p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianp2021&hide_border=true&theme=chartreuse-dark&show_icons=true" />
+</a> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+<a href="https://github.com/adrianp2021/convoychat">
+  <img width="412px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianp2021&account_private=true&theme=chartreuse-dark&show_icons=true&hide_border=true&show_icons=true&locale=en&layout=compact" />
+</a>
+</p>
 
 ## Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adrianp2021)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adrianp2021)](https://git.io/streak-stats) -->
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adrianp2021&theme=solarized-dark&hide_border=true)](https://git.io/streak-stats) -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adrianp2021&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
 
 
 ## Languages and Management Tools
