@@ -1,6 +1,6 @@
 ## < Hello world! /> 👨‍💻
 
-<img align="right" width="29%" src="https://miro.medium.com/max/960/1*06f6VMGAqEQoLQw8uzgPoA.gif" height="220px"/>
+<img align="right" width="27%" src="https://miro.medium.com/max/960/1*06f6VMGAqEQoLQw8uzgPoA.gif" height="220px"/>
 
 - 🔭 I’m currently working on a cloned website.
 - 🌱 I’m currently learning Next.js and Tailwind CSS. In addition, I seek to improve my existing code.
