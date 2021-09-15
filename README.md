@@ -13,18 +13,15 @@
 
 <p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="415px"  align="center" src="https://github-readme-stats.vercel.app/api?username=adrianp2021&hide_border=true&theme=chartreuse-dark&show_icons=true" />
+ <img width="415px"  align="center" src="https://github-readme-stats.vercel.app/api?username=adrianp2021&hide_border=true&theme=chartreuse-dark&show_icons=true" />
 </a> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
 <a href="https://github.com/adrianp2021/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianp2021&account_private=true&theme=chartreuse-dark&show_icons=true&hide_border=true&show_icons=true&locale=en&layout=compact" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianp2021&account_private=true&theme=chartreuse-dark&show_icons=true&hide_border=true&show_icons=true&locale=en&layout=compact" width="415px"  />
 </a>
 </p>
 
 ## Streak Stats
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adrianp2021)](https://git.io/streak-stats) -->
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adrianp2021&theme=solarized-dark&hide_border=true)](https://git.io/streak-stats) -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adrianp2021&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
-
 
 ## Languages and Management Tools
 <p align="left">
