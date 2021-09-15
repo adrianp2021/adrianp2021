@@ -12,7 +12,7 @@
 - ⚡ Fun fact: There is no project without listening to this [soundtrack](https://www.youtube.com/watch?v=iHI-MCHb-VQ&t=17007s). 
 
 
-📈 | 👨‍💻
+<img src="https://cdn.dribbble.com/users/80960/screenshots/1388718/shot6.gif" width="150px"> | <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" width="150px">
 ------------ | -------------
 ![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianp2021&hide_border=true&theme=dark&show_icons=true) | <img  width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianp2021&account_private=true&theme=dark&show_icons=true&hide_border=true&show_icons=true&locale=en&layout=compact"/>
 
