@@ -19,6 +19,7 @@
 ## Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adrianp2021)](https://git.io/streak-stats)
 
+
 ## Languages and Management Tools
 <p align="left">
 <a href="https://reactjs.org/" target="_blank"><img width="50px" src="https://cdn.iconscout.com/icon/free/png-256/react-4-1175110.png"></a> &nbsp
@@ -48,8 +49,8 @@
 </p>
 
 ## Views and followers
- <a href="https://github.com/adrianp2021/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=adrianp2021"/></a>
- <a href="https://github.com/adrianp2021?tab=followers"><img src="https://img.shields.io/github/followers/adrianp2021?style=social" alt="Github Badge"></a>
+<a href="https://github.com/adrianp2021/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=adrianp2021"/></a>
+<a href="https://github.com/adrianp2021?tab=followers"><img src="https://img.shields.io/github/followers/adrianp2021?style=social" alt="Github Badge"></a>
  
  
 
