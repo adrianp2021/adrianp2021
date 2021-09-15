@@ -1,6 +1,6 @@
 ## < Hello world! /> 👨‍💻
 
-<img align="right" width="25%" src="https://miro.medium.com/max/960/1*06f6VMGAqEQoLQw8uzgPoA.gif" height="220px"/>
+<img align="right" width="30%" src="https://miro.medium.com/max/960/1*06f6VMGAqEQoLQw8uzgPoA.gif" height="220px"/>
 
 - 🔭 I’m currently working on a cloned website.
 - 🌱 I’m currently learning Next.js and Tailwind CSS. In addition, I seek to improve my existing code.
@@ -16,7 +16,7 @@
   <img width="415px"  align="center" src="https://github-readme-stats.vercel.app/api?username=adrianp2021&hide_border=true&theme=chartreuse-dark&show_icons=true" />
 </a> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
 <a href="https://github.com/adrianp2021/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianp2021&account_private=true&theme=chartreuse-dark&show_icons=true&hide_border=true&show_icons=true&locale=en&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianp2021&account_private=true&theme=chartreuse-dark&show_icons=true&hide_border=true&show_icons=true&locale=en&layout=compact" width="415px" />
 </a>
 </p>
 
