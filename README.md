@@ -16,6 +16,9 @@
 ------------ | -------------
 ![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianp2021&hide_border=true&theme=dark&show_icons=true) | <img  width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianp2021&account_private=true&theme=dark&show_icons=true&hide_border=true&show_icons=true&locale=en&layout=compact"/>
 
+## Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adrianp2021)](https://git.io/streak-stats)
+
 ## Languages and Management Tools
 <p align="left">
 <a href="https://reactjs.org/" target="_blank"><img width="50px" src="https://cdn.iconscout.com/icon/free/png-256/react-4-1175110.png"></a> &nbsp
