@@ -35,7 +35,7 @@
 <a href="https://yarnpkg.com/" target="_blank"> <img width="50px" src="https://iconape.com/wp-content/files/ub/352181/svg/yarn-seeklogo.com.svg"></a> &nbsp
 <a href="https://www.postgresql.org/" target="_blank"> <img width="50px" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png"></a>
 </p>
- 
+
 ## Connect with me:
 <p align="left">
 <a href="https://adrianpantea.net"><img src="https://img.icons8.com/fluency/48/000000/internet.png"/></a>
