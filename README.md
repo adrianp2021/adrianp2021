@@ -38,10 +38,10 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://adrianpantea.net"><img src="https://img.icons8.com/fluency/48/000000/internet.png"/></a>
-<a href="https://www.linkedin.com/in/adrian-pantea"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href="https://twitter.com/AdrianPantea4"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
-<a href="mailto: adrianpantea10@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+<a href="https://www.adrianpantea.net" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/internet.png"/></a>
+<a href="https://www.linkedin.com/in/adrian-pantea" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="https://twitter.com/AdrianPantea4" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+<a href="mailto: adrianpantea10@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 </p>
 
 ## Views and followers
