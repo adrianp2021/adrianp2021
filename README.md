@@ -1,6 +1,6 @@
 ## < Hello world! /> 👨‍💻
 
-<img align="right" width="30%" src="https://cdn.dribbble.com/users/176039/screenshots/3081690/tna-dribbble-01.gif"/>
+<img align="right" width="30%" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif"/>
 
 - 🔭 I’m currently working on a cloned website.
 - 🌱 I’m currently learning Next.js and Tailwind CSS. In addition, I seek to improve my existing code.
