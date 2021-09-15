@@ -25,7 +25,7 @@
 <a href="https://nodejs.org/en/" target="_blank"> <img width="50px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1-1174935.png"></a> &nbsp
 <a href="https://www.djangoproject.com/" target="_blank"> <img width="50px" src="https://www.logolynx.com/images/logolynx/b3/b38e909c4a7f55b7563bbf23413d2f1f.png"></a> &nbsp
 <a href="https://www.python.org/" target="_blank"> <img width="50px" src="https://miro.medium.com/max/512/1*XOFheBcYZ_2lG1rodQV5kg.png"></a> &nbsp
-<a href="https://bulma.io/" target="_blank"> <img width="50px" src="https://seeklogo.com/images/B/bulma-logo-45B5145BF4-seeklogo.com.png" height="30px" ></a> &nbsp
+<a href="https://bulma.io/" target="_blank"> <img width="50px" src="https://seeklogo.com/images/B/bulma-logo-45B5145BF4-seeklogo.com.png" height="50px" ></a> &nbsp
 <a href="https://react.semantic-ui.com/" target="_blank"> <img width="50px" src="https://react.semantic-ui.com/logo.png"></a> &nbsp
 <a href="https://insomnia.rest/" target="_blank"> <img width="50px" src="https://external-preview.redd.it/Ei1Z8fuxzd6fwIDLPBrbpJtfCj992hmJcKPMZxidaE0.jpg?auto=webp&s=73eb420e05c620c671dd9fa7579af2b5bacb344a"></a> &nbsp
 <a href="https://www.mongodb.com/cloud/atlas/lp/try2?utm_content=controlhterms&utm_source=google&utm_campaign=gs_emea_united_kingdom_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624581&gclid=Cj0KCQjwkIGKBhCxARIsAINMioJ5p7_5bt8_6OcciOVGzeaIWMm63xRBM0SfEeN1sdHk8QVpOXX7Uu8aApR6EALw_wcB" target="_blank"> <img width="50px" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3-1175138.png"></a> &nbsp
