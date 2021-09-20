@@ -43,6 +43,16 @@
 <a href="https://www.postgresql.org/" target="_blank"> <img width="50px" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png"></a>
 </p>
 
+## Currently learning:
+<p align="left">
+<a href="https://nextjs.org/" target="_blank"><img width="45px" src="https://camo.githubusercontent.com/74cf8e5373ddc049c50a893785fdb1724765bd76975815e58047520f8660ff2b/68747470733a2f2f6432656970397366336f6f3663322e636c6f756466726f6e742e6e65742f746167732f696d616765732f3030302f3030312f3037342f66756c6c2f6e6578746a732e706e67"></a> &nbsp
+<a href="https://vuejs.org/" target="_blank"><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png"></a> &nbsp
+ <a href="https://tailwindcss.com/" target="_blank"><img width="50px" src="https://bourhaouta.gallerycdn.vsassets.io/extensions/bourhaouta/tailwindshades/0.0.5/1592520164095/Microsoft.VisualStudio.Services.Icons.Default"></a>
+ 
+ 
+ 
+</p>
+
 ## Connect with me:
 <p align="left">
 <a href="https://www.adrianpantea.net" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/internet.png"/></a>
