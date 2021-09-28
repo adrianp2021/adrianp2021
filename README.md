@@ -9,7 +9,7 @@
 - 💬 Ask me about travelling. 😁
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adrian-pantea).
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: There is no project without listening to this <a href="https://www.youtube.com/watch?v=iHI-MCHb-VQ&t=17007s" target="_blank">[soundtrack](https://www.youtube.com/watch?v=iHI-MCHb-VQ&t=17007s). 
+- ⚡ Fun fact: There is no project without listening to this [soundtrack](https://www.youtube.com/watch?v=iHI-MCHb-VQ&t=17007s). 
 
 <p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
