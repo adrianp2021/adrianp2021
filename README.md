@@ -2,7 +2,7 @@
 
 <img align="right" width="30%" src="https://miro.medium.com/max/960/1*06f6VMGAqEQoLQw8uzgPoA.gif" height="220px"/>
 
-- 🔭 I’m currently working on a cloned website.
+- 🔭 I’m currently changing look of my existing portfolio website.
 - 🌱 I’m currently learning Vue.js and TypeScript. In addition, I seek to improve my existing code.
 - 👯 I’m looking to collaborate with other content creators.
 - 🤔 I’m looking to learn from the wider community of developers.
