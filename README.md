@@ -4,11 +4,9 @@
 
 - 🔭 I’m currently changing look of my existing portfolio website.
 - 🌱 I’m currently learning Vue.js and TypeScript. In addition, I seek to improve my existing code.
-- 👯 I’m looking to collaborate with other content creators.
 - 🤔 I’m looking to learn from the wider community of developers.
 - 💬 Ask me about travelling. 😁
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adrian-pantea).
-- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: There is no project without listening to this [soundtrack](https://www.youtube.com/watch?v=iHI-MCHb-VQ&t=17007s). 
 
 <p>
